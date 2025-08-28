@@ -34,7 +34,7 @@ const Navbar = () => {
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
 
-        <a href="http://localhost:5174">
+        <a href="https://healthschedule-admin.onrender.com">
           <p className='border px-5 py-1.5 text-sm rounded-full border-gray-500 text-gray-600'>Admin Panel</p>
         </a>
       </ul>
